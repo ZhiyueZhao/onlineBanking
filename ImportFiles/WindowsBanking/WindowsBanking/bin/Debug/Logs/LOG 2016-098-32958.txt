@@ -1,0 +1,60 @@
+
+-------ERROR-------
+File: 2016-098-32958.xml
+Notes: 5
+Missing Notes
+-------------------
+-------ERROR-------
+File: 2016-098-32958.xml
+Notes: 7
+Missing Notes
+-------------------
+Transaction 868 completed successfully
+Transaction 869 completed successfully
+Transaction 870 completed successfully
+
+-------ERROR-------
+File: 2016-098-32958.xml
+Account No: 344391000010Electronic Transfer
+Type: 344391000010Electronic Transfer
+Out: 344391000010Electronic Transfer
+Notes: 344391000010Electronic Transfer
+Notes: 5
+Missing Notes
+-------------------
+-------ERROR-------
+File: 2016-098-32958.xml
+Account No: 344391000011501500Electronic Transfer
+Type: 344391000011501500Electronic Transfer
+In: 344391000011501500Electronic Transfer
+Out: 344391000011501500Electronic Transfer
+Notes: 344391000011501500Electronic Transfer
+Notes: 7
+Missing Notes
+-------------------
+Transaction 897 completed successfully
+Transaction 898 completed successfully
+Transaction 899 completed successfully
+
+-------ERROR-------
+File: 2016-098-32958.xml
+Account No: 10000
+Type: 1
+Out: 0
+Notes: Electronic Transfer
+Notes: 5
+Missing Notes
+-------------------
+-------ERROR-------
+File: 2016-098-32958.xml
+Account No: 10000
+Type: 1
+In: 150
+Out: 0
+Notes: Electronic Transfer
+Notes: 7
+Missing Notes
+-------------------
+Transaction 926 completed successfully
+Transaction 927 completed successfully
+Transaction 928 completed successfully

@@ -1,0 +1,120 @@
+
+-------ERROR-------
+File: 2016-099-35918.xml
+Account No: 33333
+Type: 9
+In: 900
+Out: 90
+Notes: left
+Notes: 6
+Invalid Transaction Type
+-------------------
+Transaction 963 completed successfully
+Transaction 964 completed successfully
+Transaction 965 completed successfully
+Transaction 966 completed successfully
+Transaction 967 completed successfully
+Transaction 968 completed successfully
+Transaction 969 completed successfully
+Transaction 970 completed successfully
+Transaction 971 completed successfully
+Transaction 972 completed successfully
+Transaction 973 completed successfully
+Transaction 974 completed successfully
+Transaction 975 completed successfully
+Transaction 976 completed successfully
+Transaction 977 completed successfully
+Transaction 978 completed successfully
+Transaction 979 completed successfully
+Transaction 980 completed successfully
+Transaction 981 completed successfully
+Transaction 982 completed successfully
+Transaction 983 completed successfully
+Transaction 984 completed successfully
+Transaction 985 completed successfully
+Transaction 986 completed successfully
+Transaction 987 completed successfully
+Transaction 988 completed successfully
+Transaction 989 completed successfully
+Transaction 990 completed successfully
+Transaction 991 completed successfully
+
+-------ERROR-------
+File: 2016-099-35918.xml
+Account No: 33333
+Type: 9
+In: 900
+Out: 90
+Notes: left
+Notes: 6
+Invalid Transaction Type
+-------------------
+Transaction 998 completed successfully
+Transaction 999 completed successfully
+Transaction 1000 completed successfully
+Transaction 1001 completed successfully
+Transaction 1002 completed successfully
+Transaction 1003 completed successfully
+Transaction 1004 completed successfully
+Transaction 1005 completed successfully
+Transaction 1006 completed successfully
+Transaction 1007 completed successfully
+Transaction 1008 completed successfully
+Transaction 1009 completed successfully
+Transaction 1010 completed successfully
+Transaction 1011 completed successfully
+Transaction 1012 completed successfully
+Transaction 1013 completed successfully
+Transaction 1014 completed successfully
+Transaction 1015 completed successfully
+Transaction 1016 completed successfully
+Transaction 1017 completed successfully
+Transaction 1018 completed successfully
+Transaction 1019 completed successfully
+Transaction 1020 completed successfully
+Transaction 1021 completed successfully
+Transaction 1022 completed successfully
+Transaction 1023 completed successfully
+Transaction 1024 completed successfully
+Transaction 1025 completed successfully
+Transaction 1026 completed successfully
+
+-------ERROR-------
+File: 2016-099-35918.xml
+Account No: 33333
+Type: 9
+In: 900
+Out: 90
+Notes: left
+Notes: 6
+Invalid Transaction Type
+-------------------
+Transaction 1033 completed successfully
+Transaction 1034 completed successfully
+Transaction 1035 completed successfully
+Transaction 1036 completed successfully
+Transaction 1037 completed successfully
+Transaction 1038 completed successfully
+Transaction 1039 completed successfully
+Transaction 1040 completed successfully
+Transaction 1041 completed successfully
+Transaction 1042 completed successfully
+Transaction 1043 completed successfully
+Transaction 1044 completed successfully
+Transaction 1045 completed successfully
+Transaction 1046 completed successfully
+Transaction 1047 completed successfully
+Transaction 1048 completed successfully
+Transaction 1049 completed successfully
+Transaction 1050 completed successfully
+Transaction 1051 completed successfully
+Transaction 1052 completed successfully
+Transaction 1053 completed successfully
+Transaction 1054 completed successfully
+Transaction 1055 completed successfully
+Transaction 1056 completed successfully
+Transaction 1057 completed successfully
+Transaction 1058 completed successfully
+Transaction 1059 completed successfully
+Transaction 1060 completed successfully
+Transaction 1061 completed successfully

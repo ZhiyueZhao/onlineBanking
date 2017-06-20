@@ -1,0 +1,84 @@
+
+-------ERROR-------
+File: 2016-098-35918.xml
+Notes: 6
+Invalid Transaction Type
+-------------------
+-------ERROR-------
+File: 2016-098-35918.xml
+Notes: 6
+Invalid Transaction Type
+-------------------
+-------ERROR-------
+File: 2016-098-35918.xml
+Notes: 6
+Invalid Transaction Type
+-------------------
+Transaction 866 completed successfully
+Transaction 867 completed successfully
+
+-------ERROR-------
+File: 2016-098-35918.xml
+Account No: 344391000001500Electronic Transfer
+Type: 344391000001500Electronic Transfer
+In: 344391000001500Electronic Transfer
+Out: 344391000001500Electronic Transfer
+Notes: 344391000001500Electronic Transfer
+Notes: 6
+Invalid Transaction Type
+-------------------
+-------ERROR-------
+File: 2016-098-35918.xml
+Account No: 3443910000301500Electronic Transfer
+Type: 3443910000301500Electronic Transfer
+In: 3443910000301500Electronic Transfer
+Out: 3443910000301500Electronic Transfer
+Notes: 3443910000301500Electronic Transfer
+Notes: 6
+Invalid Transaction Type
+-------------------
+-------ERROR-------
+File: 2016-098-35918.xml
+Account No: 344391000040150Electronic Transfer
+Type: 344391000040150Electronic Transfer
+In: 344391000040150Electronic Transfer
+Out: 344391000040150Electronic Transfer
+Notes: 344391000040150Electronic Transfer
+Notes: 6
+Invalid Transaction Type
+-------------------
+Transaction 895 completed successfully
+Transaction 896 completed successfully
+
+-------ERROR-------
+File: 2016-098-35918.xml
+Account No: 10000
+Type: 0
+In: 150
+Out: 0
+Notes: Electronic Transfer
+Notes: 6
+Invalid Transaction Type
+-------------------
+-------ERROR-------
+File: 2016-098-35918.xml
+Account No: 10000
+Type: 3
+In: 0
+Out: 1500
+Notes: Electronic Transfer
+Notes: 6
+Invalid Transaction Type
+-------------------
+-------ERROR-------
+File: 2016-098-35918.xml
+Account No: 10000
+Type: 4
+In: 0
+Out: 150
+Notes: Electronic Transfer
+Notes: 6
+Invalid Transaction Type
+-------------------
+Transaction 924 completed successfully
+Transaction 925 completed successfully

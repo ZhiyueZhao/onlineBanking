@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<transfer checksum="10000" to="12453" from="3432" date="2016-04-39">
+	<transaction>
+		<from_institution>35918</from_institution>
+		<account_no>10000</account_no>
+		<type>2</type>
+		<in>0</in>
+		<out>100</out>
+		<notes>today</notes>
+	</transaction>
+</transfer>

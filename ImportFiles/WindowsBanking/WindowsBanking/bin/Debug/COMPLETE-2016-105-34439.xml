@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!--bank transfer file-->
+<transfer checksum="50000" to="45910" from="32958" date="2016-04-14">
+	<transaction>
+		<from_institution>34439</from_institution>
+		<account_no>10000</account_no>
+		<type>1</type>
+		<in>150</in>
+		<out>0</out>
+		<notes>Electronic Transfer</notes>
+	</transaction>
+	<transaction>
+		<from_institution>34439</from_institution>
+		<account_no>10000</account_no>
+		<type>1</type>
+		<in>150</in>
+		<out>0</out>
+		<notes>Electronic Transfer</notes>
+	</transaction>
+	<transaction>
+		<from_institution>34439</from_institution>
+		<account_no>10000</account_no>
+		<type>2</type>
+		<in>0</in>
+		<out>1500</out>
+		<notes>Electronic Transfer</notes>
+	</transaction>
+	<transaction>
+		<from_institution>34439</from_institution>
+		<account_no>10000</account_no>
+		<type>2</type>
+		<in>0</in>
+		<out>150</out>
+		<notes>Electronic Transfer</notes>
+	</transaction>
+	<transaction>
+		<from_institution>34439</from_institution>
+		<account_no>10000</account_no>
+		<type>2</type>
+		<in>0</in>
+		<out>150</out>
+		<notes>Electronic Transfer</notes>
+	</transaction>
+</transfer>
+

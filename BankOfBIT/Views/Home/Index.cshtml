@@ -1,0 +1,65 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title.</h1>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>
+            <p>
+                @*change the information showed on the blue tag.*@
+                @*To learn more about ASP.NET MVC visit
+                <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
+                The page features <mark>videos, tutorials, and samples</mark> to help you get the most from ASP.NET MVC.
+                If you have any questions about ASP.NET MVC visit
+                <a href="http://forums.asp.net/1146.aspx/1?MVC" title="ASP.NET MVC Forum">our forums</a>.*@
+                Welcome to the Bank of BIT Online Banking Application. Client may securely execute a variety banking operations
+                using this application. 
+            </p>
+        </div>
+    </section>
+}
+@*change the header showed
+<h3>We suggest the following:</h3>*@
+<h3>We offer the following:</h3>
+<ol class="round">
+    <li class="one">
+        @*change the first tag information
+        <h5>Getting Started</h5>
+        ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+        enables a clean separation of concerns and that gives you full control over markup
+        for enjoyable, agile development. ASP.NET MVC includes many features that enable
+        fast, TDD-friendly development for creating sophisticated applications that use
+        the latest web standards.
+        <a href="http://go.microsoft.com/fwlink/?LinkId=245151">Learn more…</a>*@
+        <h5>Transfer Funds</h5>
+        Clients can conveniently transfer funds between accounts.
+    </li>
+
+    <li class="two">
+        @*change the second tag information
+        <h5>Add NuGet packages and jump-start your coding</h5>
+        NuGet makes it easy to install and update free libraries and tools.
+        <a href="http://go.microsoft.com/fwlink/?LinkId=245153">Learn more…</a>*@
+        <h5>Bill Payments</h5>
+        Clients can conveniently pay bills through this Online Banking Application.
+        All major utility companies are included as options for online bill payments.
+    </li>
+
+    <li class="three">
+        @*change the thrird tag information
+        <h5>Find Web Hosting</h5>
+        You can easily find a web hosting company that offers the right mix of features
+        and price for your applications.
+        <a href="http://go.microsoft.com/fwlink/?LinkId=245157">Learn more…</a>*@
+        <h5>Client Management</h5>
+        Clients can update their contact information using this application.
+    </li>
+    @*add a new tag*@
+    <li class="four">
+        <h5>Account Management</h5>
+        Clients can update their Bank Account information using this application.
+    </li>
+</ol>

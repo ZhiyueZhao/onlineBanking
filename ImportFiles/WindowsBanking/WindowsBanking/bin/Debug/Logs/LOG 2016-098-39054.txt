@@ -1,0 +1,40 @@
+
+-------ERROR-------
+File: 2016-098-39054.xml
+Notes: 6
+Account Number is not exist
+-------------------
+Transaction 862 completed successfully
+Transaction 863 completed successfully
+Transaction 864 completed successfully
+Transaction 865 completed successfully
+
+-------ERROR-------
+File: 2016-098-39054.xml
+Account No: 344391100011500Electronic Transfer
+Type: 344391100011500Electronic Transfer
+In: 344391100011500Electronic Transfer
+Out: 344391100011500Electronic Transfer
+Notes: 344391100011500Electronic Transfer
+Notes: 6
+Account Number is not exist
+-------------------
+Transaction 891 completed successfully
+Transaction 892 completed successfully
+Transaction 893 completed successfully
+Transaction 894 completed successfully
+
+-------ERROR-------
+File: 2016-098-39054.xml
+Account No: 11000
+Type: 1
+In: 150
+Out: 0
+Notes: Electronic Transfer
+Notes: 6
+Account Number is not exist
+-------------------
+Transaction 920 completed successfully
+Transaction 921 completed successfully
+Transaction 922 completed successfully
+Transaction 923 completed successfully

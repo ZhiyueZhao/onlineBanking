@@ -1,0 +1,62 @@
+
+-------ERROR-------
+File: 2016-098-38028.xml
+Notes: 6
+Deposit and withdrawal should be positive
+-------------------
+-------ERROR-------
+File: 2016-098-38028.xml
+Notes: 6
+Deposit and withdrawal should be positive
+-------------------
+Transaction 859 completed successfully
+Transaction 860 completed successfully
+Transaction 861 completed successfully
+
+-------ERROR-------
+File: 2016-098-38028.xml
+Account No: 34439100001-1500Electronic Transfer
+Type: 34439100001-1500Electronic Transfer
+In: 34439100001-1500Electronic Transfer
+Out: 34439100001-1500Electronic Transfer
+Notes: 34439100001-1500Electronic Transfer
+Notes: 6
+Deposit and withdrawal should be positive
+-------------------
+-------ERROR-------
+File: 2016-098-38028.xml
+Account No: 34439100001150-10Electronic Transfer
+Type: 34439100001150-10Electronic Transfer
+In: 34439100001150-10Electronic Transfer
+Out: 34439100001150-10Electronic Transfer
+Notes: 34439100001150-10Electronic Transfer
+Notes: 6
+Deposit and withdrawal should be positive
+-------------------
+Transaction 888 completed successfully
+Transaction 889 completed successfully
+Transaction 890 completed successfully
+
+-------ERROR-------
+File: 2016-098-38028.xml
+Account No: 10000
+Type: 1
+In: -150
+Out: 0
+Notes: Electronic Transfer
+Notes: 6
+Deposit and withdrawal should be positive
+-------------------
+-------ERROR-------
+File: 2016-098-38028.xml
+Account No: 10000
+Type: 1
+In: 150
+Out: -10
+Notes: Electronic Transfer
+Notes: 6
+Deposit and withdrawal should be positive
+-------------------
+Transaction 917 completed successfully
+Transaction 918 completed successfully
+Transaction 919 completed successfully

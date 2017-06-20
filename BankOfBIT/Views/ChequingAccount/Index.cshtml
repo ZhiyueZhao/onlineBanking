@@ -1,0 +1,100 @@
+﻿@model IEnumerable<BankOfBIT.Models.ChequingAccount>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        @*add fullname tag here*@
+        <th>
+            @Html.DisplayNameFor(model => model.Client.FullName)
+        </th>
+        @*delete ChequingServiceCharges tag
+        <th>
+            @Html.DisplayNameFor(model => model.ChequingServiceCharges)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.AccountNumber)
+        </th>
+        @*delete FirstName tag
+        <th>
+            @Html.DisplayNameFor(model => model.Client.FirstName)
+        </th>*@
+        @*add id*@
+        <th id="AccountStatusDescription">
+            @Html.DisplayNameFor(model => model.AccountStatus.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Balance)
+        </th>
+        @*delete OpeningBalance tag
+        <th>
+            @Html.DisplayNameFor(model => model.OpeningBalance)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.DateCreated)
+        </th>
+        @*delete Notes tag
+        <th>
+            @Html.DisplayNameFor(model => model.Notes)
+        </th>*@
+        @*add ChequingServiceCharges tag*@
+        <th>
+            @Html.DisplayNameFor(model => model.ChequingServiceCharges)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        @*add fullname information here*@
+        <td>
+            @Html.DisplayFor(modelItem => item.Client.FullName)
+        </td>
+        @*delete ChequingServiceCharges information
+        <td>
+            @Html.DisplayFor(modelItem => item.ChequingServiceCharges)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.AccountNumber)
+        </td>
+        @*delete FirstName information
+        <td>
+            @Html.DisplayFor(modelItem => item.Client.FirstName)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.AccountStatus.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Balance)
+        </td>
+        @*delete OpeningBalance information
+        <td>
+            @Html.DisplayFor(modelItem => item.OpeningBalance)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.DateCreated)
+        </td>
+        @*delete Notes information
+        <td>
+            @Html.DisplayFor(modelItem => item.Notes)
+        </td>*@
+        @*add ChequingServiceCharges information*@
+        <td>
+            @Html.DisplayFor(modelItem => item.ChequingServiceCharges)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.BankAccountId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.BankAccountId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.BankAccountId })
+        </td>
+    </tr>
+}
+
+</table>

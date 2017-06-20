@@ -1,0 +1,24 @@
+
+-------ERROR-------
+File: 2016-099-44982.xml
+Account No: 11111
+Type: 9
+In: 900
+Out: 90
+Notes: ***ERROR BAD TX TYPE***
+Notes: 6
+Invalid Transaction Type
+-------------------
+Transaction 944 completed successfully
+Transaction 945 completed successfully
+Transaction 946 completed successfully
+Transaction 947 completed successfully
+Transaction 948 completed successfully
+Transaction 949 completed successfully
+Transaction 950 completed successfully
+Transaction 951 completed successfully
+Transaction 952 completed successfully
+Transaction 953 completed successfully
+Transaction 954 completed successfully
+Transaction 955 completed successfully
+Transaction 956 completed successfully

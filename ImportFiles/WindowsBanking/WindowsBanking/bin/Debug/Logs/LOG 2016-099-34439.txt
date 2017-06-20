@@ -1,0 +1,228 @@
+
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 2
+In: 0
+Notes: ***ERROR***missing child node
+Notes: 5
+Missing Notes
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: trans_dep
+In: 100
+Out: 0
+Notes: ***ERROR***non-numeric trans type
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 2
+In: ten
+Out: 100
+Notes: ***ERROR***non-numeric deposit
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 2
+In: 0
+Out: ten
+Notes: ***ERROR***non-numeric withdrawal
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 9
+In: 900
+Out: 90
+Notes: ***ERROR***wrong tx type
+Notes: 6
+Invalid Transaction Type
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 1
+In: -100
+Out: 0
+Notes: ***ERROR***bad deposit amt
+Notes: 6
+Deposit and withdrawal should be positive
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 1111
+Type: 1
+In: 100
+Out: 0
+Notes: ***ERROR***bad account number
+Notes: 6
+Account Number is not exist
+-------------------
+Transaction 957 completed successfully
+Transaction 958 completed successfully
+Transaction 959 completed successfully
+Transaction 960 completed successfully
+Transaction 961 completed successfully
+Transaction 962 completed successfully
+
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 2
+In: 0
+Notes: ***ERROR***missing child node
+Notes: 5
+Missing Notes
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: trans_dep
+In: 100
+Out: 0
+Notes: ***ERROR***non-numeric trans type
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 2
+In: ten
+Out: 100
+Notes: ***ERROR***non-numeric deposit
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 2
+In: 0
+Out: ten
+Notes: ***ERROR***non-numeric withdrawal
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 9
+In: 900
+Out: 90
+Notes: ***ERROR***wrong tx type
+Notes: 6
+Invalid Transaction Type
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 1
+In: -100
+Out: 0
+Notes: ***ERROR***bad deposit amt
+Notes: 6
+Deposit and withdrawal should be positive
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 1111
+Type: 1
+In: 100
+Out: 0
+Notes: ***ERROR***bad account number
+Notes: 6
+Account Number is not exist
+-------------------
+Transaction 992 completed successfully
+Transaction 993 completed successfully
+Transaction 994 completed successfully
+Transaction 995 completed successfully
+Transaction 996 completed successfully
+Transaction 997 completed successfully
+
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 2
+In: 0
+Notes: ***ERROR***missing child node
+Notes: 5
+Missing Notes
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: trans_dep
+In: 100
+Out: 0
+Notes: ***ERROR***non-numeric trans type
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 2
+In: ten
+Out: 100
+Notes: ***ERROR***non-numeric deposit
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 2
+In: 0
+Out: ten
+Notes: ***ERROR***non-numeric withdrawal
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 9
+In: 900
+Out: 90
+Notes: ***ERROR***wrong tx type
+Notes: 6
+Invalid Transaction Type
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 11111
+Type: 1
+In: -100
+Out: 0
+Notes: ***ERROR***bad deposit amt
+Notes: 6
+Deposit and withdrawal should be positive
+-------------------
+-------ERROR-------
+File: 2016-099-34439.xml
+Account No: 1111
+Type: 1
+In: 100
+Out: 0
+Notes: ***ERROR***bad account number
+Notes: 6
+Account Number is not exist
+-------------------
+Transaction 1027 completed successfully
+Transaction 1028 completed successfully
+Transaction 1029 completed successfully
+Transaction 1030 completed successfully
+Transaction 1031 completed successfully
+Transaction 1032 completed successfully

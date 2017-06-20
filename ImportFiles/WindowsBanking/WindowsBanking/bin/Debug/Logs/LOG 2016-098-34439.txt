@@ -1,0 +1,84 @@
+
+-------ERROR-------
+File: 2016-098-34439.xml
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-098-34439.xml
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-098-34439.xml
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+Transaction 857 completed successfully
+Transaction 858 completed successfully
+
+-------ERROR-------
+File: 2016-098-34439.xml
+Account No: 3443910000a1500Electronic Transfer
+Type: 3443910000a1500Electronic Transfer
+In: 3443910000a1500Electronic Transfer
+Out: 3443910000a1500Electronic Transfer
+Notes: 3443910000a1500Electronic Transfer
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-098-34439.xml
+Account No: 3443910000115a00Electronic Transfer
+Type: 3443910000115a00Electronic Transfer
+In: 3443910000115a00Electronic Transfer
+Out: 3443910000115a00Electronic Transfer
+Notes: 3443910000115a00Electronic Transfer
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-098-34439.xml
+Account No: 3443910000201500aElectronic Transfer
+Type: 3443910000201500aElectronic Transfer
+In: 3443910000201500aElectronic Transfer
+Out: 3443910000201500aElectronic Transfer
+Notes: 3443910000201500aElectronic Transfer
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+Transaction 886 completed successfully
+Transaction 887 completed successfully
+
+-------ERROR-------
+File: 2016-098-34439.xml
+Account No: 10000
+Type: a
+In: 150
+Out: 0
+Notes: Electronic Transfer
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-098-34439.xml
+Account No: 10000
+Type: 1
+In: 15a0
+Out: 0
+Notes: Electronic Transfer
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+-------ERROR-------
+File: 2016-098-34439.xml
+Account No: 10000
+Type: 2
+In: 0
+Out: 1500a
+Notes: Electronic Transfer
+Notes: 6
+Deposit, withdrawal and type should be numeric value
+-------------------
+Transaction 915 completed successfully
+Transaction 916 completed successfully

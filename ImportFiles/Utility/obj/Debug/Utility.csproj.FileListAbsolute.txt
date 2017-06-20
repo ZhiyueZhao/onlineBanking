@@ -1,0 +1,16 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\BankOfBIT\Utility\bin\Debug\Utility.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\BankOfBIT\Utility\bin\Debug\Utility.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\BankOfBIT\Utility\obj\Debug\Utility.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\BankOfBIT\Utility\obj\Debug\Utility.pdb
+C:\Users\Administrator\Desktop\Programming 3\Solutions\Assignments\BankOfBIT\Utility\bin\Debug\Utility.dll
+C:\Users\Administrator\Desktop\Programming 3\Solutions\Assignments\BankOfBIT\Utility\bin\Debug\Utility.pdb
+C:\Users\Administrator\Desktop\Programming 3\Solutions\Assignments\BankOfBIT\Utility\obj\Debug\Utility.dll
+C:\Users\Administrator\Desktop\Programming 3\Solutions\Assignments\BankOfBIT\Utility\obj\Debug\Utility.pdb
+C:\Users\Administrator\Desktop\Utility\obj\Debug\Utility.dll
+C:\Users\Administrator\Desktop\Utility\obj\Debug\Utility.pdb
+C:\Users\Administrator\Desktop\Utility\bin\Debug\Utility.dll
+C:\Users\Administrator\Desktop\Utility\bin\Debug\Utility.pdb
+C:\Users\Administrator\Desktop\Programming\BankOfBIT\ImportFiles\Utility\bin\Debug\Utility.dll
+C:\Users\Administrator\Desktop\Programming\BankOfBIT\ImportFiles\Utility\bin\Debug\Utility.pdb
+C:\Users\Administrator\Desktop\Programming\BankOfBIT\ImportFiles\Utility\obj\Debug\Utility.dll
+C:\Users\Administrator\Desktop\Programming\BankOfBIT\ImportFiles\Utility\obj\Debug\Utility.pdb
